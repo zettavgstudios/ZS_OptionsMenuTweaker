@@ -7,7 +7,7 @@ Elimina la opción "Recordar Comando" del menú de opciones
 Este pequeño plugin elimina la opción "Recordar Comando" del menú de opciones en RPG Maker MV. Es útil para juegos que no tienen batallas o donde esta opción puede confundir a los jugadores.
 
 
-Características
+Características:
 
 -Elimina la opción sin afectar otras configuraciones.
 
@@ -18,7 +18,7 @@ Características
 -Ligero y fácil de usar.
 
 
-Instalación
+Instalación:
 
 -Descarga el archivo RemoveCommandRemember.js.
 
@@ -29,8 +29,13 @@ Instalación
 -Activa el plugin y guarda los cambios.
 
 
-Créditos
+Créditos:
 
-Creado por Zetta Studios. Puedes usarlo libremente, pero debes incluir créditos.
+-Creado por Zetta Studios. Puedes usarlo libremente, pero debes incluir créditos.
 
 
+Licencia:
+
+-Este plugin está disponible bajo la licencia MIT. Puedes usarlo libremente en proyectos comerciales y no comerciales.  
+
+-[Consulta la licencia completa aquí](LICENSE).
