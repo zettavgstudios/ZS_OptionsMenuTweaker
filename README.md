@@ -1,41 +1,52 @@
-Remove Command Remember - Plugin para RPG Maker MV
+ZS_OptionsMenuTweaker - Plugin for RPG Maker MV
+
+Enables you to remove or disable specific options from the settings menu, including options added by other plugins.
+
+This plugin gives you full control over the RPG Maker MV options menu. You can hide built-in options like “Remember Command” or “Always Dash”, and remove up to 15 custom options from other plugins by specifying their identifiers.
 
 
-Elimina la opción "Recordar Comando" del menú de opciones
+Features:
+
+Remove default RPG Maker MV options such as:
+
+“Remember Command”
+
+“Always Dash”
+
+BGM, BGS, ME, and SE volume controls
+
+Hide up to 15 custom plugin options by identifier.
+
+Simple configuration through the Plugin Manager.
+
+Does not affect the internal functionality of removed options.
+
+Compatible with other plugins that modify the options menu.
+
+Lightweight and easy to use.
 
 
-Este pequeño plugin elimina la opción "Recordar Comando" del menú de opciones en RPG Maker MV. Es útil para juegos que no tienen batallas o donde esta opción puede confundir a los jugadores.
+Installation:
+
+Download ZS_OptionsMenuTweaker.js.
+
+Place it in your project’s js/plugins/ folder.
+
+Open RPG Maker MV and go to the Plugin Manager.
+
+Activate the plugin and configure it as needed.
+
+Save your project and test it in-game.
 
 
-Características:
+Credits:
 
--Elimina la opción sin afectar otras configuraciones.
+Created by viz (Zetta Studios).
 
--No requiere configuración, solo actívalo y listo.
-
--Compatible con otros plugins que modifiquen el menú de opciones.
-
--Ligero y fácil de usar.
+Free to use, but credit is required.
 
 
-Instalación:
+License:
 
--Descarga el archivo RemoveCommandRemember.js.
-
--Coloca el archivo en la carpeta js/plugins/ de tu proyecto.
-
--Abre RPG Maker MV y ve al Administrador de Plugins.
-
--Activa el plugin y guarda los cambios.
-
-
-Créditos:
-
--Creado por Zetta Studios. Puedes usarlo libremente, pero debes incluir créditos.
-
-
-Licencia:
-
--Este plugin está disponible bajo la licencia MIT. Puedes usarlo libremente en proyectos comerciales y no comerciales.  
-
--[Consulta la licencia completa aquí](LICENSE).
+This plugin is released under the MIT License.
+You are free to use it in both commercial and non-commercial projects.
